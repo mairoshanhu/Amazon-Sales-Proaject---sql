@@ -97,5 +97,5 @@ OFFSET 0 ROWS FETCH NEXT 5 ROWS ONLY;
 
 ## 👨‍💻 Author
 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+📧 roshankumaruttam123@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/mairoshanhu)
